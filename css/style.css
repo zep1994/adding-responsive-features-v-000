@@ -3,6 +3,7 @@
 
 /*////////// GLOBAL //////////*/
 
+
 body {
   font-size: 100%;
 }
@@ -62,15 +63,6 @@ input, textarea {
   margin-bottom: 5px;
   box-shadow: 0 3px 5px #ccc;
   border: 1px solid #ccc;
-}
-
-input[type="submit"] {
-  margin-top: 5px;
-  width: 100px;
-  background: black;
-  color: white;
-  border-radius: 25px;
-  border: 0;
 }
 
 input[type="submit"]:hover {
